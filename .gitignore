@@ -3,8 +3,13 @@
 solution.js
 solution.ejs
 
-# Logs
+# modules
+node_modules/
 
+# OS files
+.DS_Store
+
+# Logs
 logs
 _.log
 npm-debug.log_
